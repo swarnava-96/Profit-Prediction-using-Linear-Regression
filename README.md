@@ -6,7 +6,7 @@
 ```The following figure shows the distribution of each and every features.```
 ![Rplot](https://user-images.githubusercontent.com/75041273/134572193-3b4be155-0e2e-4017-976b-a288713cdb6c.png)
 
-```The following figure shows the Predicted vs Actual result on the test data set.```
+```The following figure shows the Predicted vs Actual result on the test data set, where blue represents prediction and red represents actual.```
 ![Rplot01](https://user-images.githubusercontent.com/75041273/134572638-607265d7-19ac-4f0a-b9d2-d063d838c399.png)
 
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
