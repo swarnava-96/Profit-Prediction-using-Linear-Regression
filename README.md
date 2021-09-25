@@ -8,4 +8,5 @@
 
 ```The following figure shows the Predicted vs Actual result on the test data set.```
 ![Rplot01](https://user-images.githubusercontent.com/75041273/134572638-607265d7-19ac-4f0a-b9d2-d063d838c399.png)
+
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
